@@ -1,5 +1,5 @@
 # fast-vue
-封装的vue组件,更快的开发/n
+封装的vue组件,更快的开发;
 登录组件:login-email,login-phone,login-id;
 导航组件:NavMenu;
 Radio 单选框
